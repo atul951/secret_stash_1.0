@@ -28,7 +28,7 @@ A secure note-taking API built with Spring Boot and Kotlin, featuring JWT authen
 
 1. **Clone the repository**:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/atul951/secret_stash_1.0.git
    cd note
    ```
 

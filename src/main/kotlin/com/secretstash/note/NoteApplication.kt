@@ -4,9 +4,9 @@ import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.runApplication
 
 @SpringBootApplication
-class NoteApplication {
+class NoteApplication
 
-    fun main(args: Array<String>) {
-        runApplication<NoteApplication>(*args)
-    }
+fun main(args: Array<String>) {
+    runApplication<NoteApplication>(*args)
 }
+
